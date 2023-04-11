@@ -6,13 +6,13 @@ using UnityEngine;
 using UnityEngine.AddressableAssets;
 using System.Reflection;
 
-namespace ModName {
+namespace DoomEnemies {
     [BepInPlugin(PluginGUID, PluginName, PluginVersion)]
     
-    public class ModName : BaseUnityPlugin {
+    public class DoomEnemies : BaseUnityPlugin {
         public const string PluginGUID = PluginAuthor + "." + PluginName;
-        public const string PluginAuthor = "ModAuthorName";
-        public const string PluginName = "ModName";
+        public const string PluginAuthor = "pseudopulse";
+        public const string PluginName = "DoomEnemies";
         public const string PluginVersion = "1.0.0";
 
         public static AssetBundle bundle;
@@ -20,7 +20,7 @@ namespace ModName {
 
         public void Awake() {
             // assetbundle loading 
-            bundle = AssetBundle.LoadFromFile(Assembly.GetExecutingAssembly().Location.Replace("dll name", "bundle name"));
+            bundle = AssetBundle.LoadFromFile(Assembly.GetExecutingAssembly().Location.Replace("DoomEnemies.dll", "wheresallthedata"));
 
             // set logger
             ModLogger = Logger;

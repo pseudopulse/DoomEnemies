@@ -1,8 +1,8 @@
 {
-	"name": "ModName",
+	"name": "DoomEnemies",
 	"version_number": "1.0.0",
-	"website_url": "",
-	"description": "ModDesc",
+	"website_url": "https://github.com/pseudopulse/DoomEnemies",
+	"description": "Ports a bunch of classic DOOM enemies into Risk of Rain 2!",
 	"dependencies": [
 		"bbepis-BepInExPack-5.4.9",
 		"RiskofThunder-HookGenPatcher-1.2.1",
