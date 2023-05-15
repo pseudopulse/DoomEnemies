@@ -1,0 +1,847 @@
+ManifestFileVersion: 0
+CRC: 2781809059
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 714eb549c113d2ea5df494a8ba102117
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 1b8aae82a5f15d206340ceabe9fcc9b4
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 54
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 372142912, guid: d382a022563c7517aadbc92ca1060016, type: 3}
+- Class: 114
+  Script: {fileID: 1357070253, guid: 951ce57ad999ac1f040a4dceb5f8b763, type: 3}
+- Class: 114
+  Script: {fileID: 682687671, guid: 951ce57ad999ac1f040a4dceb5f8b763, type: 3}
+- Class: 114
+  Script: {fileID: 1297580292, guid: 951ce57ad999ac1f040a4dceb5f8b763, type: 3}
+- Class: 114
+  Script: {fileID: 1143142494, guid: 951ce57ad999ac1f040a4dceb5f8b763, type: 3}
+- Class: 114
+  Script: {fileID: 298587437, guid: 951ce57ad999ac1f040a4dceb5f8b763, type: 3}
+- Class: 114
+  Script: {fileID: 161585894, guid: 951ce57ad999ac1f040a4dceb5f8b763, type: 3}
+- Class: 114
+  Script: {fileID: 2132374559, guid: c1e6789e36f266ef8892196395f56d68, type: 3}
+- Class: 114
+  Script: {fileID: 1918207524, guid: 951ce57ad999ac1f040a4dceb5f8b763, type: 3}
+- Class: 114
+  Script: {fileID: 1144835783, guid: 951ce57ad999ac1f040a4dceb5f8b763, type: 3}
+- Class: 114
+  Script: {fileID: 1530905962, guid: 951ce57ad999ac1f040a4dceb5f8b763, type: 3}
+- Class: 114
+  Script: {fileID: 306635731, guid: 951ce57ad999ac1f040a4dceb5f8b763, type: 3}
+- Class: 114
+  Script: {fileID: 1512185436, guid: 951ce57ad999ac1f040a4dceb5f8b763, type: 3}
+- Class: 114
+  Script: {fileID: 678291247, guid: 951ce57ad999ac1f040a4dceb5f8b763, type: 3}
+- Class: 114
+  Script: {fileID: 182758248, guid: c1e6789e36f266ef8892196395f56d68, type: 3}
+- Class: 114
+  Script: {fileID: 1238145197, guid: c1e6789e36f266ef8892196395f56d68, type: 3}
+- Class: 114
+  Script: {fileID: 1790887305, guid: 951ce57ad999ac1f040a4dceb5f8b763, type: 3}
+- Class: 114
+  Script: {fileID: 676698485, guid: c1e6789e36f266ef8892196395f56d68, type: 3}
+- Class: 114
+  Script: {fileID: 511512695, guid: 951ce57ad999ac1f040a4dceb5f8b763, type: 3}
+- Class: 114
+  Script: {fileID: 717380117, guid: 951ce57ad999ac1f040a4dceb5f8b763, type: 3}
+- Class: 114
+  Script: {fileID: 1839950351, guid: 951ce57ad999ac1f040a4dceb5f8b763, type: 3}
+- Class: 114
+  Script: {fileID: 353067543, guid: 951ce57ad999ac1f040a4dceb5f8b763, type: 3}
+- Class: 114
+  Script: {fileID: -1811796171, guid: 951ce57ad999ac1f040a4dceb5f8b763, type: 3}
+- Class: 114
+  Script: {fileID: -1067940895, guid: 951ce57ad999ac1f040a4dceb5f8b763, type: 3}
+- Class: 114
+  Script: {fileID: -197296741, guid: 951ce57ad999ac1f040a4dceb5f8b763, type: 3}
+- Class: 114
+  Script: {fileID: -1277448904, guid: 951ce57ad999ac1f040a4dceb5f8b763, type: 3}
+- Class: 114
+  Script: {fileID: -1077198318, guid: 951ce57ad999ac1f040a4dceb5f8b763, type: 3}
+- Class: 114
+  Script: {fileID: -2096938146, guid: 951ce57ad999ac1f040a4dceb5f8b763, type: 3}
+- Class: 114
+  Script: {fileID: -226763392, guid: 951ce57ad999ac1f040a4dceb5f8b763, type: 3}
+- Class: 114
+  Script: {fileID: -578974823, guid: 951ce57ad999ac1f040a4dceb5f8b763, type: 3}
+- Class: 114
+  Script: {fileID: -365436499, guid: 951ce57ad999ac1f040a4dceb5f8b763, type: 3}
+- Class: 114
+  Script: {fileID: -202159943, guid: 951ce57ad999ac1f040a4dceb5f8b763, type: 3}
+- Class: 114
+  Script: {fileID: -1792105662, guid: 951ce57ad999ac1f040a4dceb5f8b763, type: 3}
+- Class: 114
+  Script: {fileID: -1549848242, guid: 951ce57ad999ac1f040a4dceb5f8b763, type: 3}
+- Class: 114
+  Script: {fileID: -359660931, guid: 951ce57ad999ac1f040a4dceb5f8b763, type: 3}
+- Class: 114
+  Script: {fileID: -1888550019, guid: 951ce57ad999ac1f040a4dceb5f8b763, type: 3}
+- Class: 114
+  Script: {fileID: -1578512655, guid: 951ce57ad999ac1f040a4dceb5f8b763, type: 3}
+- Class: 114
+  Script: {fileID: -1699741063, guid: 951ce57ad999ac1f040a4dceb5f8b763, type: 3}
+- Class: 114
+  Script: {fileID: -1848696948, guid: 951ce57ad999ac1f040a4dceb5f8b763, type: 3}
+- Class: 114
+  Script: {fileID: -343225066, guid: 951ce57ad999ac1f040a4dceb5f8b763, type: 3}
+- Class: 114
+  Script: {fileID: -974958137, guid: 951ce57ad999ac1f040a4dceb5f8b763, type: 3}
+- Class: 114
+  Script: {fileID: -317677761, guid: 951ce57ad999ac1f040a4dceb5f8b763, type: 3}
+- Class: 114
+  Script: {fileID: -1819008361, guid: 951ce57ad999ac1f040a4dceb5f8b763, type: 3}
+- Class: 114
+  Script: {fileID: -789927658, guid: 951ce57ad999ac1f040a4dceb5f8b763, type: 3}
+- Class: 114
+  Script: {fileID: 1391837873, guid: 951ce57ad999ac1f040a4dceb5f8b763, type: 3}
+- Class: 114
+  Script: {fileID: -1627637702, guid: 951ce57ad999ac1f040a4dceb5f8b763, type: 3}
+- Class: 114
+  Script: {fileID: -315171339, guid: 951ce57ad999ac1f040a4dceb5f8b763, type: 3}
+- Class: 114
+  Script: {fileID: -1895344032, guid: 951ce57ad999ac1f040a4dceb5f8b763, type: 3}
+- Class: 114
+  Script: {fileID: -1746479147, guid: 951ce57ad999ac1f040a4dceb5f8b763, type: 3}
+- Class: 114
+  Script: {fileID: 1438196566, guid: c1e6789e36f266ef8892196395f56d68, type: 3}
+- Class: 114
+  Script: {fileID: -968935018, guid: c1e6789e36f266ef8892196395f56d68, type: 3}
+- Class: 114
+  Script: {fileID: -71372093, guid: c1e6789e36f266ef8892196395f56d68, type: 3}
+- Class: 114
+  Script: {fileID: -795919523, guid: c1e6789e36f266ef8892196395f56d68, type: 3}
+- Class: 114
+  Script: {fileID: -1568778350, guid: 050936fea8909af15a3fd3b64da1ff83, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 136
+  Script: {instanceID: 0}
+- Class: 212
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Enemies/Archvile/Sprites/FIREC0.png
+- Assets/Enemies/Cacodemon/Sprites/HEADH0.png
+- Assets/Enemies/Spider/Sprites/SPIDF8.png
+- Assets/Enemies/Revenant/Sprites/SKELE4.png
+- Assets/Enemies/Spider/Sprites/SPIDD2.png
+- Assets/Enemies/Baron/Sprites/BOSSD7.png
+- Assets/Enemies/Cyberdemon/Sprites/CYBRG3.png
+- Assets/Enemies/Archvile/Sprites/VILEP5.png
+- Assets/Enemies/Cacodemon/Sprites/HEADI0.png
+- Assets/Enemies/Icon/Sprites/RWDM11B.png
+- Assets/Enemies/Revenant/Sprites/SKELD4.png
+- Assets/Enemies/Spider/Sprites/SPIDG8.png
+- Assets/Enemies/Baron/Sprites/BOSSA1.png
+- Assets/Enemies/Cacodemon/Sprites/HEADB5.png
+- Assets/Enemies/Imp/Sprites/BAL1D0.png
+- Assets/Scenes/Map30/Sprites/SLIME12.png
+- Assets/Enemies/Baron/Sprites/BOSSB4.png
+- Assets/Enemies/Revenant/Sprites/SKELE2.png
+- Assets/Enemies/Cyberdemon/Sprites/CYBRG6.png
+- Assets/Enemies/Spider/Sprites/SPIDC4.png
+- Assets/Enemies/Cyberdemon/Sprites/MISLA7.png
+- Assets/Enemies/Spider/Sprites/SPIDC2.png
+- Assets/Enemies/Cacodemon/Sprites/HEADB4.png
+- Assets/Enemies/Revenant/Sprites/SKELB1.png
+- Assets/Enemies/Archvile/Sprites/VILE^2.png
+- Assets/Enemies/Revenant/Sprites/SKELO0.png
+- Assets/Enemies/Chaingunner/Sprites/CPOSE8.png
+- Assets/Enemies/Archvile/Sprites/VILED8.png
+- Assets/Enemies/Chaingunner/Sprites/CPOSF8.png
+- Assets/Enemies/Archvile/Sprites/VILEK1.png
+- Assets/Enemies/Baron/Sprites/BOSSG4.png
+- Assets/Enemies/Chaingunner/Sprites/CPOSB7.png
+- Assets/Enemies/Chaingunner/Sprites/CPOSA7.png
+- Assets/Enemies/Icon/Sprites/RWDMON5.png
+- Assets/Enemies/Chaingunner/Sprites/CPOSB2.png
+- Assets/Enemies/Chaingunner/Sprites/CPOSD1.png
+- Assets/Enemies/Chaingunner/Sprites/CPOSD4.png
+- Assets/Enemies/Cacodemon/Sprites/HEADB7.png
+- Assets/Enemies/Cyberdemon/Projectiles/CyberRocket.prefab
+- Assets/Enemies/Baron/Sprites/BOSSG5.png
+- Assets/Enemies/Cyberdemon/Sprites/CYBRE3.png
+- Assets/Enemies/Imp/Sprites/ImpG6.png
+- Assets/Enemies/Spider/Sprites/SPIDA6.png
+- Assets/Enemies/Cyberdemon/Projectiles/MissileExplosion.prefab
+- Assets/Enemies/Revenant/Sprites/FATBA3.png
+- Assets/Enemies/Archvile/Sprites/VILEC3.png
+- Assets/Enemies/Archvile/Sprites/VILEJ7.png
+- Assets/Enemies/Cacodemon/Sprites/HEADC1.png
+- Assets/Enemies/Archvile/Sprites/VILEK4.png
+- Assets/Enemies/Archvile/Sprites/VILEG4.png
+- Assets/Enemies/Archvile/Sprites/VILEB2.png
+- Assets/Enemies/Revenant/Sprites/SKELK2.png
+- Assets/Enemies/Chaingunner/Sprites/CPOSB5.png
+- Assets/Enemies/Baron/Sprites/BOSSE8.png
+- Assets/Enemies/Cacodemon/Sprites/HEADD5.png
+- Assets/Enemies/Imp/D2ImpMaster.prefab
+- Assets/Enemies/Chaingunner/Sprites/CPOSE5.png
+- Assets/Enemies/Baron/Sprites/BOSSF7.png
+- Assets/Enemies/Revenant/Sprites/FATBA1.png
+- Assets/Enemies/Chaingunner/Sprites/CPOSC8.png
+- Assets/Enemies/Chaingunner/Sprites/CPOSC7.png
+- Assets/Enemies/Cyberdemon/Sprites/CYBRB7.png
+- Assets/Enemies/Archvile/Sprites/VILE^4.png
+- Assets/Enemies/Cyberdemon/Sprites/CYBRM0.png
+- Assets/Enemies/Cacodemon/Sprites/HEADD6.png
+- Assets/Enemies/Cyberdemon/Sprites/CYBRD1.png
+- Assets/Enemies/Imp/Sprites/ImpB4.png
+- Assets/Enemies/Cyberdemon/Sprites/CYBRC3.png
+- Assets/Enemies/Cyberdemon/Sprites/CYBRK0.png
+- Assets/Enemies/Spider/Sprites/SPIDQ0.png
+- Assets/Enemies/Spider/Sprites/SPIDA7.png
+- Assets/Enemies/Archvile/Sprites/VILEB7.png
+- Assets/Enemies/Spider/Sprites/SPIDH1.png
+- Assets/Enemies/Archvile/Sprites/VILE[4.png
+- Assets/Enemies/Cyberdemon/Sprites/CYBRA5.png
+- Assets/Enemies/Chaingunner/Sprites/CPOSC4.png
+- Assets/Scenes/Map30/Sprites/SLIME09.png
+- Assets/Enemies/Chaingunner/Sprites/CPOSF6.png
+- Assets/Enemies/Spider/Sprites/SPIDR0.png
+- Assets/Enemies/Spider/Sprites/SPIDH3.png
+- Assets/Enemies/Archvile/Sprites/VILEG6.png
+- Assets/Enemies/Archvile/Sprites/VILEI4.png
+- Assets/Enemies/Revenant/Sprites/SKELJ8.png
+- Assets/Enemies/Revenant/Sprites/SKELB3.png
+- Assets/Enemies/Baron/Sprites/BOSSD3.png
+- Assets/Enemies/Baron/Sprites/BOSSE4.png
+- Assets/Enemies/Spider/Sprites/SPIDF2.png
+- Assets/Enemies/Archvile/Sprites/VILE]1.png
+- Assets/Enemies/Archvile/Sprites/VILE[8.png
+- Assets/Enemies/Revenant/Sprites/FBXPB0.png
+- Assets/Enemies/Cyberdemon/Sprites/CYBRF7.png
+- Assets/Enemies/Spider/Sprites/SPIDG1.png
+- Assets/Enemies/Spider/Sprites/SPIDA1.png
+- Assets/Enemies/Cyberdemon/Sprites/CYBRG1.png
+- Assets/Enemies/Cyberdemon/Sprites/CYBRC7.png
+- Assets/Enemies/Baron/Sprites/BOSSN0.png
+- Assets/Enemies/Imp/Sprites/ImpC5.png
+- Assets/Enemies/Archvile/Sprites/VILEE6.png
+- Assets/Enemies/Spider/Sprites/SPIDD4.png
+- Assets/Enemies/Imp/Sprites/ImpD8.png
+- Assets/Enemies/Cacodemon/Sprites/HEADB8.png
+- Assets/Enemies/Icon/Sprites/RWDMON3.png
+- Assets/Enemies/Archvile/Sprites/VILEK5.png
+- Assets/Enemies/Baron/BaronMaster.prefab
+- Assets/Enemies/Archvile/Sprites/VILEA4.png
+- Assets/Enemies/Spider/Sprites/SPIDB2.png
+- Assets/Enemies/Icon/Projectiles/SpawnCubeGhost.prefab
+- Assets/Enemies/Imp/Sprites/ImpE7.png
+- Assets/Enemies/Imp/Sprites/ImpD6.png
+- Assets/Enemies/Cyberdemon/Sprites/CYBRC8.png
+- Assets/Enemies/Spider/Sprites/SPIDH8.png
+- Assets/Enemies/Imp/Sprites/ImpC4.png
+- Assets/Enemies/Archvile/Sprites/VILEJ2.png
+- Assets/Enemies/Archvile/Sprites/VILEG8.png
+- Assets/Enemies/Spider/Sprites/SPIDE4.png
+- Assets/Enemies/Archvile/Sprites/VILE[7.png
+- Assets/Enemies/Spider/Sprites/SPIDH5.png
+- Assets/Enemies/Cyberdemon/Sprites/CYBRF8.png
+- Assets/Enemies/Cyberdemon/CyberdemonMaster.prefab
+- Assets/Enemies/Archvile/Sprites/VILE]2.png
+- Assets/Enemies/Spider/Sprites/SPIDD6.png
+- Assets/Enemies/Archvile/Sprites/VILEO3.png
+- Assets/Enemies/Archvile/Sprites/VILEK7.png
+- Assets/Enemies/Cyberdemon/CyberdemonBody.prefab
+- Assets/Enemies/Baron/Sprites/BOSSG8.png
+- Assets/Enemies/Cyberdemon/Sprites/CYBRE8.png
+- Assets/Enemies/Cyberdemon/Sprites/MISLA5.png
+- Assets/Enemies/Icon/Sprites/BOSFA0.png
+- Assets/Enemies/Imp/Sprites/ImpB8.png
+- Assets/Enemies/Cyberdemon/Sprites/CYBRG5.png
+- Assets/Enemies/Spider/Sprites/SPIDC1.png
+- Assets/Enemies/Archvile/Sprites/VILEO8.png
+- Assets/Enemies/Chaingunner/Sprites/CPOSD8.png
+- Assets/Enemies/Spider/Sprites/SPIDF3.png
+- Assets/Enemies/Imp/Sprites/ImpC7.png
+- Assets/Enemies/Archvile/Sprites/VILEC1.png
+- Assets/Enemies/Cacodemon/Sprites/BAL2D0.png
+- Assets/Enemies/Imp/Sprites/ImpE8.png
+- Assets/Enemies/Baron/Sprites/BAL7A1A5.png
+- Assets/Enemies/Cacodemon/Sprites/BAL2E0.png
+- Assets/Enemies/Spider/Sprites/SPIDE7.png
+- Assets/Enemies/Revenant/Sprites/FATBA6.png
+- Assets/Enemies/Revenant/Sprites/SKELE1.png
+- Assets/Scenes/Map30/Sprites/SFALL2.png
+- Assets/Enemies/Spider/Sprites/SPIDP0.png
+- Assets/Enemies/Archvile/Sprites/VILEN5.png
+- Assets/Enemies/Revenant/Sprites/SKELN0.png
+- Assets/Enemies/Archvile/Sprites/FIRED0.png
+- Assets/Enemies/Revenant/Sprites/SKELK1.png
+- Assets/Enemies/Archvile/Sprites/VILEC4.png
+- Assets/Enemies/Revenant/Sprites/SKELA4.png
+- Assets/Scenes/Map30/Sprites/SLIME04.png
+- Assets/Enemies/Spider/Sprites/SPIDC7.png
+- Assets/Enemies/Imp/Sprites/ImpA6.png
+- Assets/Enemies/Baron/Sprites/BOSSA2.png
+- Assets/Enemies/Baron/Sprites/BOSSD5.png
+- Assets/Enemies/Chaingunner/Sprites/CPOSE3.png
+- Assets/Enemies/Chaingunner/Sprites/CPOSA5.png
+- Assets/Enemies/Spider/Sprites/SPIDD5.png
+- Assets/Enemies/Baron/Sprites/BOSSD6.png
+- Assets/Enemies/Cyberdemon/Sprites/CYBRH0.png
+- Assets/Enemies/Archvile/Sprites/VILED6.png
+- Assets/Enemies/Archvile/Sprites/VILEN3.png
+- Assets/Enemies/Imp/Sprites/ImpD4.png
+- Assets/Enemies/Cacodemon/Sprites/BAL2B0.png
+- Assets/Enemies/Archvile/Sprites/VILEP6.png
+- Assets/Enemies/Revenant/Sprites/SKELK6.png
+- Assets/Enemies/Archvile/Sprites/VILEO4.png
+- Assets/Enemies/Imp/Sprites/ImpF5.png
+- Assets/Enemies/Icon/Sprites/RWDMON4.png
+- Assets/Enemies/Baron/Sprites/BAL7C0.png
+- Assets/Enemies/Archvile/Sprites/VILE]8.png
+- Assets/Enemies/Imp/Sprites/ImpA3.png
+- Assets/Enemies/Baron/Sprites/BAL7E0.png
+- Assets/Enemies/Cyberdemon/Sprites/CYBRJ0.png
+- Assets/Scenes/Map30/Sprites/SLIME03.png
+- Assets/Enemies/Archvile/Sprites/VILEH1.png
+- Assets/Enemies/Archvile/Sprites/VILED5.png
+- Assets/Enemies/Baron/Sprites/BOSSE5.png
+- Assets/Enemies/Archvile/Sprites/VILEI8.png
+- Assets/Enemies/Revenant/Sprites/SKELA8.png
+- Assets/Enemies/Cacodemon/Sprites/HEADC4.png
+- Assets/Enemies/Imp/Sprites/ImpG7.png
+- Assets/Enemies/Cacodemon/Sprites/HEADD7.png
+- Assets/Enemies/Cacodemon/CacodemonBody.prefab
+- Assets/Enemies/Chaingunner/Sprites/CPOSE7.png
+- Assets/Enemies/Chaingunner/Sprites/CPOSI0.png
+- Assets/Enemies/Spider/Sprites/SPIDH2.png
+- Assets/Enemies/Chaingunner/Sprites/CPOSC3.png
+- Assets/Enemies/Cyberdemon/Sprites/CYBRA1.png
+- Assets/Enemies/Archvile/Sprites/VILE]5.png
+- Assets/Scenes/Map30/Sprites/SLIME13.png
+- Assets/Enemies/Archvile/Sprites/VILEO1.png
+- Assets/Enemies/Cyberdemon/Sprites/CYBRF1.png
+- Assets/Enemies/Cacodemon/Sprites/HEADD4.png
+- Assets/Enemies/Imp/Sprites/ImpE1.png
+- Assets/Enemies/Baron/Sprites/BOSSD1.png
+- Assets/Enemies/Cyberdemon/Sprites/MISLA2.png
+- Assets/Enemies/Baron/Projectiles/BaronFireballEffect.prefab
+- Assets/Enemies/Archvile/Sprites/VILEE2.png
+- Assets/Enemies/Cyberdemon/Sprites/CYBRG2.png
+- Assets/Enemies/Baron/Sprites/BOSSC8.png
+- Assets/Enemies/Archvile/Sprites/VILEL5.png
+- Assets/Enemies/Spider/Sprites/SPIDG6.png
+- Assets/Enemies/Cyberdemon/Sprites/CYBRD3.png
+- Assets/Enemies/Chaingunner/ChaingunnerBody.prefab
+- Assets/Enemies/Archvile/Sprites/VILEP4.png
+- Assets/Enemies/Cyberdemon/Sprites/CYBRF4.png
+- Assets/Enemies/Chaingunner/Sprites/CPOSF7.png
+- Assets/Enemies/Archvile/Sprites/VILEH8.png
+- Assets/Enemies/Imp/Sprites/ImpG4.png
+- Assets/Enemies/Cyberdemon/Sprites/CYBRD5.png
+- Assets/Scenes/Map30/Sprites/SLIME01.png
+- Assets/Enemies/Revenant/Projectiles/SkelMissileGhost.prefab
+- Assets/Enemies/Cyberdemon/Sprites/CYBRE4.png
+- Assets/Scenes/Map30/Sprites/SLIME15.png
+- Assets/Enemies/Archvile/Sprites/VILEP3.png
+- Assets/Enemies/Icon/Sprites/RWDMON8.png
+- Assets/Enemies/Archvile/Sprites/VILE]3.png
+- Assets/Enemies/Cacodemon/Projectiles/CacoBallGhost.prefab
+- Assets/Enemies/Cacodemon/Sprites/HEADL0.png
+- Assets/Enemies/Baron/Sprites/BOSSA5.png
+- Assets/Enemies/Imp/Sprites/ImpF4.png
+- Assets/Enemies/Cyberdemon/Sprites/MISLA1.png
+- Assets/Enemies/Archvile/Sprites/VILED2.png
+- Assets/Enemies/Spider/Sprites/SPIDG2.png
+- Assets/Enemies/Spider/Sprites/SPIDJ0.png
+- Assets/Enemies/Cyberdemon/Sprites/MISLA3.png
+- Assets/Enemies/Archvile/Sprites/VILEA5.png
+- Assets/Enemies/Cacodemon/Sprites/HEADB2.png
+- Assets/Enemies/Cacodemon/Sprites/HEADC7.png
+- Assets/Enemies/Cacodemon/Sprites/HEADA4.png
+- Assets/Enemies/Baron/Sprites/BOSSF2.png
+- Assets/Enemies/Archvile/Sprites/VILE[1.png
+- Assets/Enemies/Imp/Sprites/ImpE6.png
+- Assets/Enemies/Revenant/RevenantMaster.prefab
+- Assets/Enemies/Cyberdemon/Sprites/CYBRB3.png
+- Assets/Enemies/Imp/Sprites/ImpD7.png
+- Assets/Enemies/Archvile/Sprites/VILEL1.png
+- Assets/Enemies/Archvile/Sprites/VILEM2.png
+- Assets/Enemies/Spider/Sprites/SPIDA2.png
+- Assets/Enemies/Cacodemon/Sprites/HEADC8.png
+- Assets/Enemies/Imp/Sprites/ImpB5.png
+- Assets/Enemies/Chaingunner/ChaingunnerLog.asset
+- Assets/Enemies/Archvile/Sprites/VILEF8.png
+- Assets/Enemies/Archvile/Sprites/VILEL7.png
+- Assets/Enemies/Spider/Sprites/SPIDB1.png
+- Assets/Scenes/Map30/Sprites/SLIME10.png
+- Assets/Enemies/Archvile/Sprites/VILEF5.png
+- Assets/Enemies/Cyberdemon/Sprites/CYBRA4.png
+- Assets/Enemies/Archvile/Sprites/VILE^7.png
+- Assets/Enemies/Archvile/Sprites/VILEM3.png
+- Assets/Enemies/Archvile/Sprites/VILEC7.png
+- Assets/Enemies/Imp/Sprites/ImpE5.png
+- Assets/Enemies/Archvile/Archvile.asset
+- Assets/Enemies/Revenant/Sprites/SKELQ0.png
+- Assets/Enemies/Chaingunner/Sprites/CPOSL0.png
+- Assets/Enemies/Cyberdemon/Sprites/CYBRB4.png
+- Assets/Enemies/Cacodemon/CacodemonMaster.prefab
+- Assets/Enemies/Imp/Sprites/ImpF6.png
+- Assets/Enemies/Baron/Sprites/BOSSF4.png
+- Assets/Enemies/Cacodemon/Sprites/HEADA6.png
+- Assets/Enemies/Imp/Sprites/ImpF7.png
+- Assets/Enemies/Archvile/Sprites/VILEB6.png
+- Assets/Scenes/Map30/Sprites/SFALL3.png
+- Assets/Enemies/Cyberdemon/Sprites/CYBRC4.png
+- Assets/Enemies/Imp/Sprites/ImpC6.png
+- Assets/Enemies/Archvile/Sprites/VILEB4.png
+- Assets/Enemies/Spider/Sprites/SPIDC8.png
+- Assets/Enemies/Icon/Sprites/RWDM11D.png
+- Assets/Enemies/Chaingunner/Sprites/CPOSC5.png
+- Assets/Enemies/Archvile/Sprites/VILEK3.png
+- Assets/Enemies/Spider/Sprites/SPIDB4.png
+- Assets/Enemies/Cyberdemon/Sprites/CYBRD7.png
+- Assets/Enemies/Cyberdemon/Sprites/CYBRA6.png
+- Assets/Enemies/Archvile/Sprites/VILEG1.png
+- Assets/Enemies/Cyberdemon/Sprites/CYBRD2.png
+- Assets/Enemies/Chaingunner/Sprites/CPOSA1.png
+- Assets/Enemies/Imp/Projectiles/ImpFireballGhost.prefab
+- Assets/Enemies/Archvile/Sprites/VILE[2.png
+- Assets/Enemies/Cyberdemon/Sprites/CYBRO0.png
+- Assets/Enemies/Cyberdemon/Sprites/CYBRC2.png
+- Assets/Enemies/Imp/Sprites/ImpE4.png
+- Assets/Enemies/Cyberdemon/Sprites/CYBRB5.png
+- Assets/Enemies/Cacodemon/Sprites/HEADA1.png
+- Assets/Enemies/Archvile/Sprites/FIREH0.png
+- Assets/Enemies/Cacodemon/Cacodemon.asset
+- Assets/Enemies/Cacodemon/Sprites/HEADB6.png
+- Assets/Enemies/Icon/IconBody.prefab
+- Assets/Enemies/Archvile/Sprites/VILEO5.png
+- Assets/Enemies/Chaingunner/Sprites/CPOSD3.png
+- Assets/Enemies/Chaingunner/Sprites/CPOSA3.png
+- Assets/Enemies/Archvile/Sprites/VILEA6.png
+- Assets/Enemies/Imp/Sprites/ImpA7.png
+- Assets/Enemies/Archvile/Effects/ArchvileFlameGhost.prefab
+- Assets/Enemies/Cyberdemon/Sprites/MISLC0.png
+- Assets/Enemies/Imp/Sprites/TROOJ0.png
+- Assets/Enemies/Revenant/Sprites/SKELB6.png
+- Assets/Enemies/Cyberdemon/Sprites/CYBRA8.png
+- Assets/Scenes/Map30/Sprites/SLIME02.png
+- Assets/Enemies/Archvile/Sprites/VILEE1.png
+- Assets/Enemies/Imp/Sprites/TROOI0.png
+- Assets/Enemies/Baron/Sprites/BOSSC4.png
+- Assets/Enemies/Spider/Sprites/SPIDS0.png
+- Assets/Enemies/Chaingunner/Sprites/CPOSD7.png
+- Assets/Scenes/Map30/Sprites/SFALL4.png
+- Assets/Enemies/Imp/Sprites/ImpA4.png
+- Assets/Enemies/Cacodemon/Sprites/HEADC2.png
+- Assets/Enemies/Chaingunner/Sprites/CPOSA2.png
+- Assets/Enemies/Spider/Sprites/SPIDC6.png
+- Assets/Enemies/Cyberdemon/Sprites/MISLA4.png
+- Assets/Enemies/Archvile/Sprites/VILEA3.png
+- Assets/Enemies/Archvile/Sprites/VILED3.png
+- Assets/Enemies/Cyberdemon/Sprites/CYBRA2.png
+- Assets/Enemies/Archvile/Sprites/VILEO2.png
+- Assets/Enemies/Archvile/Sprites/VILEI6.png
+- Assets/Enemies/Archvile/Sprites/VILEL6.png
+- Assets/Enemies/Revenant/Sprites/FATBA7.png
+- Assets/Enemies/Baron/Sprites/BAL7D0.png
+- Assets/Enemies/Baron/Sprites/BOSSA8.png
+- Assets/Enemies/Archvile/Sprites/VILE[5.png
+- Assets/Enemies/Archvile/Sprites/VILES0.png
+- Assets/Enemies/Cyberdemon/Sprites/CYBRN0.png
+- Assets/Enemies/Baron/Sprites/BOSSG6.png
+- Assets/Enemies/Spider/Sprites/SPIDC5.png
+- Assets/Enemies/Chaingunner/Chaingunner.asset
+- Assets/Enemies/Cyberdemon/Sprites/MISLA8.png
+- Assets/Enemies/Spider/Sprites/SPIDF6.png
+- Assets/Enemies/Revenant/Sprites/SKELM0.png
+- Assets/Enemies/Chaingunner/Sprites/CPOSE1.png
+- Assets/Enemies/Revenant/Sprites/SKELP0.png
+- Assets/Enemies/Spider/Sprites/SPIDF5.png
+- Assets/Enemies/Imp/Sprites/ImpB3.png
+- Assets/Enemies/Cyberdemon/Sprites/CYBRE7.png
+- Assets/Enemies/Baron/Sprites/BOSSC1.png
+- Assets/Enemies/Revenant/Sprites/SKELA2.png
+- Assets/Enemies/Baron/Sprites/BOSSE3.png
+- Assets/Enemies/Archvile/ArchvileBody.prefab
+- Assets/Enemies/Baron/Sprites/BOSSA4.png
+- Assets/Enemies/Cacodemon/Projectiles/CacoBall.prefab
+- Assets/Enemies/Revenant/Sprites/SKELD8.png
+- Assets/Enemies/Archvile/Sprites/VILEN8.png
+- Assets/Enemies/Chaingunner/Sprites/CPOSB3.png
+- Assets/Enemies/Baron/Sprites/BOSSE2.png
+- Assets/Enemies/Imp/Sprites/ImpD3.png
+- Assets/Enemies/Cacodemon/Sprites/HEADB1.png
+- Assets/Enemies/Revenant/Sprites/SKELE7.png
+- Assets/Enemies/Archvile/Sprites/VILEE3.png
+- Assets/Enemies/Archvile/Sprites/VILEB5.png
+- Assets/Enemies/Baron/Sprites/BOSSB7.png
+- Assets/Enemies/Archvile/Sprites/VILEU0.png
+- Assets/Enemies/Archvile/Sprites/FIREE0.png
+- Assets/Enemies/Baron/Sprites/BOSSB2.png
+- Assets/Enemies/Revenant/Projectiles/SkelMissileEffect.prefab
+- Assets/Enemies/Archvile/Sprites/VILEP7.png
+- Assets/Enemies/Archvile/Sprites/VILEX0.png
+- Assets/Enemies/Revenant/Sprites/FATBA2.png
+- Assets/Enemies/Spider/Sprites/SPIDA4.png
+- Assets/Enemies/Archvile/Sprites/VILEH4.png
+- Assets/Enemies/Imp/Sprites/BAL1B0.png
+- Assets/Enemies/Cacodemon/Sprites/HEADK0.png
+- Assets/Enemies/Imp/Sprites/ImpB2.png
+- Assets/Enemies/Chaingunner/Sprites/CPOSD2.png
+- Assets/Enemies/Revenant/Sprites/SKELJ4.png
+- Assets/Enemies/Spider/Sprites/SPIDA5.png
+- Assets/Enemies/Archvile/Sprites/VILEC5.png
+- Assets/Enemies/Chaingunner/Sprites/CPOSF4.png
+- Assets/Enemies/Chaingunner/Sprites/CPOSD5.png
+- Assets/Enemies/Cyberdemon/Sprites/CYBRC1.png
+- Assets/Enemies/Chaingunner/Sprites/CPOSK0.png
+- Assets/Enemies/Archvile/Sprites/VILEL3.png
+- Assets/Enemies/Cacodemon/Sprites/HEADJ0.png
+- Assets/Enemies/Imp/Sprites/ImpF3.png
+- Assets/Enemies/Revenant/Revenant.asset
+- Assets/Enemies/Cacodemon/Sprites/HEADD2.png
+- Assets/Enemies/Imp/Sprites/ImpG2.png
+- Assets/Enemies/Cyberdemon/Sprites/CYBRE2.png
+- Assets/Enemies/Spider/Sprites/SPIDH7.png
+- Assets/Enemies/Archvile/Sprites/VILEN4.png
+- Assets/Enemies/Archvile/Effects/ArchvileFlame.prefab
+- Assets/Enemies/Archvile/Sprites/VILEL4.png
+- Assets/Enemies/Imp/Sprites/ImpA8.png
+- Assets/Enemies/Cyberdemon/Sprites/MISLA6.png
+- Assets/Enemies/Chaingunner/Sprites/CPOSN0.png
+- Assets/Enemies/Spider/Sprites/SPIDE1.png
+- Assets/Enemies/Cacodemon/Sprites/HEADA7.png
+- Assets/Enemies/Baron/Sprites/BOSSB3.png
+- Assets/Enemies/Cyberdemon/Sprites/CYBRE1.png
+- Assets/Enemies/Cyberdemon/Cyberdemon.asset
+- Assets/Enemies/Archvile/Sprites/VILEE4.png
+- Assets/Enemies/Chaingunner/Sprites/CPOSE2.png
+- Assets/Scenes/Map30/Sprites/SLIME07.png
+- Assets/Enemies/Archvile/Sprites/VILEI3.png
+- Assets/Enemies/Cyberdemon/Sprites/CYBRG7.png
+- Assets/Enemies/Archvile/Sprites/VILER0.png
+- Assets/Enemies/Cyberdemon/Sprites/MISLB0.png
+- Assets/Enemies/Revenant/Sprites/FBXPC0.png
+- Assets/Enemies/Archvile/Sprites/VILEI2.png
+- Assets/Enemies/Revenant/Sprites/SKELE5.png
+- Assets/Enemies/Chaingunner/Sprites/CPOSD6.png
+- Assets/Enemies/Chaingunner/Sprites/CPOSE4.png
+- Assets/Enemies/Spider/Sprites/SPIDG4.png
+- Assets/Enemies/Spider/Sprites/SPIDK0.png
+- Assets/Enemies/Archvile/Sprites/VILEH7.png
+- Assets/Enemies/Revenant/Sprites/SKELK7.png
+- Assets/Enemies/Revenant/RevenantBody.prefab
+- Assets/Enemies/Chaingunner/Sprites/CPOSB6.png
+- Assets/Enemies/Cyberdemon/Sprites/CYBRF5.png
+- Assets/Scenes/Map30/Sprites/DEM1_4.png
+- Assets/Enemies/Baron/Sprites/BOSSC6.png
+- Assets/Enemies/Revenant/Sprites/FATBA4.png
+- Assets/Enemies/Cyberdemon/Sprites/CYBRB6.png
+- Assets/Enemies/Chaingunner/Sprites/CPOSA8.png
+- Assets/Enemies/Baron/Sprites/BOSSG3.png
+- Assets/Enemies/Baron/Sprites/BOSSB5.png
+- Assets/Enemies/Archvile/Sprites/VILEG7.png
+- Assets/Enemies/Imp/Sprites/ImpA2.png
+- Assets/Enemies/Imp/Sprites/ImpG8.png
+- Assets/Enemies/Spider/Sprites/SPIDF7.png
+- Assets/Enemies/Cyberdemon/Sprites/CYBRA3.png
+- Assets/Enemies/Spider/Sprites/SPIDC3.png
+- Assets/Enemies/Icon/Sprites/RWDMON9.png
+- Assets/Enemies/Cyberdemon/Sprites/CYBRP0.png
+- Assets/Enemies/Revenant/RevenantLog.asset
+- Assets/Enemies/Archvile/Sprites/VILE^1.png
+- Assets/Enemies/Imp/Sprites/ImpA5.png
+- Assets/Enemies/Icon/Sprites/RWDM11C.png
+- Assets/Enemies/Imp/Sprites/ImpE2.png
+- Assets/Enemies/Archvile/Sprites/VILEH2.png
+- Assets/Enemies/Cyberdemon/Sprites/CYBRB2.png
+- Assets/Enemies/Chaingunner/Sprites/CPOSJ0.png
+- Assets/Enemies/Archvile/Sprites/VILEV0.png
+- Assets/Enemies/Archvile/Sprites/VILEF1.png
+- Assets/Enemies/Archvile/Sprites/VILEP2.png
+- Assets/Enemies/Revenant/Sprites/SKELK4.png
+- Assets/Enemies/Revenant/Sprites/SKELA5.png
+- Assets/Enemies/Cacodemon/Sprites/HEADD3.png
+- Assets/Enemies/Revenant/Sprites/SKELE8.png
+- Assets/Enemies/Archvile/Sprites/VILEO6.png
+- Assets/Scenes/Map30/Sprites/NUKAGE2.png
+- Assets/Enemies/Spider/Sprites/SPIDG3.png
+- Assets/Enemies/Cacodemon/Sprites/HEADA3.png
+- Assets/Enemies/Archvile/Sprites/VILEE7.png
+- Assets/Enemies/Revenant/Sprites/SKELK8.png
+- Assets/Enemies/Revenant/Sprites/SKELD2.png
+- Assets/Enemies/Chaingunner/Sprites/CPOSA6.png
+- Assets/Enemies/Archvile/Sprites/VILEB8.png
+- Assets/Enemies/Baron/Sprites/BOSSG2.png
+- Assets/Enemies/Icon/Sprites/RWDMON7.png
+- Assets/Enemies/Baron/Sprites/BOSSC5.png
+- Assets/Enemies/Imp/Sprites/BAL1C0.png
+- Assets/Enemies/Archvile/Sprites/VILEH3.png
+- Assets/Enemies/Spider/Sprites/SPIDN0.png
+- Assets/Enemies/Icon/Sprites/RWDM11A.png
+- Assets/Enemies/Imp/Sprites/ImpB6.png
+- Assets/Enemies/Archvile/Sprites/VILEI7.png
+- Assets/Enemies/Imp/Imp.asset
+- Assets/Enemies/Chaingunner/Sprites/CPOSF2.png
+- Assets/Enemies/Revenant/Sprites/SKELJ1.png
+- Assets/Enemies/Archvile/Sprites/VILEI1.png
+- Assets/Enemies/Revenant/Sprites/SKELA6.png
+- Assets/Enemies/Cacodemon/Projectiles/CacoBallEffect.prefab
+- Assets/Enemies/Baron/Sprites/BOSSG1.png
+- Assets/Enemies/Archvile/Sprites/VILEF4.png
+- Assets/Enemies/Chaingunner/Sprites/CPOSF5.png
+- Assets/Enemies/Baron/Sprites/BOSSI0.png
+- Assets/Enemies/Spider/Sprites/SPIDE2.png
+- Assets/Enemies/Archvile/Sprites/VILEH6.png
+- Assets/Enemies/Baron/Sprites/BOSSL0.png
+- Assets/Enemies/Archvile/Sprites/VILE]6.png
+- Assets/Enemies/Imp/Sprites/ImpG1.png
+- Assets/Enemies/Spider/Sprites/SPIDA8.png
+- Assets/Enemies/Imp/Sprites/ImpC3.png
+- Assets/Enemies/Revenant/Sprites/SKELB2.png
+- Assets/Enemies/Archvile/Sprites/FIREB0.png
+- Assets/Enemies/Cyberdemon/Sprites/CYBRC5.png
+- Assets/Enemies/Archvile/Sprites/VILEJ4.png
+- Assets/Enemies/Archvile/Sprites/VILE[6.png
+- Assets/Enemies/Baron/Sprites/BOSSD4.png
+- Assets/Scenes/Map30/Sprites/SFALL1.png
+- Assets/Enemies/Revenant/Sprites/SKELJ2.png
+- Assets/Enemies/Archvile/Sprites/VILEJ8.png
+- Assets/Enemies/Archvile/Sprites/VILEH5.png
+- Assets/Enemies/Imp/Sprites/ImpE3.png
+- Assets/Enemies/Archvile/Sprites/VILEF2.png
+- Assets/Enemies/Cacodemon/Sprites/HEADD1.png
+- Assets/Enemies/Cyberdemon/Sprites/CYBRE5.png
+- Assets/Enemies/Baron/Sprites/BOSSE7.png
+- Assets/Enemies/Cacodemon/Sprites/HEADC6.png
+- Assets/Enemies/Archvile/Sprites/VILE^5.png
+- Assets/Enemies/Imp/Sprites/ImpC8.png
+- Assets/Enemies/Cyberdemon/Sprites/CYBRL0.png
+- Assets/Scenes/Map30/Sprites/SLIME05.png
+- Assets/Enemies/Cacodemon/Sprites/HEADA2.png
+- Assets/Enemies/Icon/IconMaster.prefab
+- Assets/Enemies/Archvile/Sprites/VILEF7.png
+- Assets/Enemies/Archvile/Sprites/VILEE5.png
+- Assets/Enemies/Cyberdemon/Sprites/CYBRC6.png
+- Assets/Enemies/Cacodemon/Sprites/BAL2A0.png
+- Assets/Enemies/Archvile/Sprites/VILEE8.png
+- Assets/Enemies/Baron/Sprites/BOSSC7.png
+- Assets/Enemies/Chaingunner/Sprites/CPOSF3.png
+- Assets/Enemies/Archvile/Sprites/FIREF0.png
+- Assets/Enemies/Baron/Sprites/BOSSA6.png
+- Assets/Enemies/Cyberdemon/Sprites/CYBRG8.png
+- Assets/Enemies/Revenant/Sprites/SKELJ3.png
+- Assets/Enemies/Imp/Sprites/TROOM0.png
+- Assets/Scenes/Map30/Sprites/SLIME08.png
+- Assets/Enemies/Icon/Sprites/RWDMON10.png
+- Assets/Enemies/Icon/Sprites/BOSFD0.png
+- Assets/Enemies/Archvile/Sprites/VILEP8.png
+- Assets/Enemies/Cacodemon/Sprites/HEADA8.png
+- Assets/Enemies/Baron/Sprites/BOSSJ0.png
+- Assets/Enemies/Revenant/Sprites/SKELE6.png
+- Assets/Enemies/Archvile/Sprites/VILEC6.png
+- Assets/Enemies/Archvile/Sprites/VILEO7.png
+- Assets/Enemies/Archvile/Sprites/VILEM5.png
+- Assets/Enemies/Icon/Sprites/BOSFC0.png
+- Assets/Enemies/Chaingunner/Sprites/CPOSE6.png
+- Assets/Enemies/Spider/Sprites/SPIDD1.png
+- Assets/Enemies/Imp/Sprites/ImpF8.png
+- Assets/Enemies/Cyberdemon/Sprites/CYBRF2.png
+- Assets/Enemies/Revenant/Sprites/FATBA5.png
+- Assets/Enemies/Cacodemon/Sprites/HEADB3.png
+- Assets/Enemies/Cyberdemon/Sprites/MISLD0.png
+- Assets/Enemies/Cyberdemon/Sprites/CYBRE6.png
+- Assets/Enemies/Archvile/Sprites/VILEK6.png
+- Assets/Enemies/Imp/Sprites/ImpD5.png
+- Assets/Enemies/Cacodemon/Sprites/HEADC3.png
+- Assets/Enemies/Archvile/Sprites/VILEI5.png
+- Assets/Enemies/Spider/Sprites/SPIDB8.png
+- Assets/Enemies/Revenant/Sprites/SKELD7.png
+- Assets/Scenes/Map30/Sprites/DEM1_1.png
+- Assets/Enemies/Cyberdemon/Sprites/CYBRD8.png
+- Assets/Enemies/Revenant/Sprites/SKELB7.png
+- Assets/Enemies/Spider/Sprites/SPIDD7.png
+- Assets/Enemies/Chaingunner/Sprites/CPOSC2.png
+- Assets/Enemies/Imp/Sprites/BAL1A0.png
+- Assets/Enemies/Baron/Sprites/BOSSD8.png
+- Assets/Enemies/Spider/Sprites/SPIDB3.png
+- Assets/Enemies/Revenant/Sprites/SKELD5.png
+- Assets/Enemies/Archvile/Sprites/VILEN7.png
+- Assets/Enemies/Spider/Spider.asset
+- Assets/Enemies/Archvile/Sprites/VILEC8.png
+- Assets/Enemies/Chaingunner/Sprites/CPOSM0.png
+- Assets/Enemies/Chaingunner/Sprites/CPOSC1.png
+- Assets/Enemies/Archvile/Sprites/VILEB3.png
+- Assets/Enemies/Baron/Sprites/BOSSB1.png
+- Assets/Enemies/Chaingunner/Sprites/CPOSB1.png
+- Assets/Enemies/Imp/Sprites/ImpF2.png
+- Assets/Enemies/Imp/Sprites/TROOK0.png
+- Assets/Enemies/Imp/D2ImpBody.prefab
+- Assets/Enemies/Archvile/Sprites/VILE[3.png
+- Assets/Enemies/Spider/Sprites/SPIDE8.png
+- Assets/Enemies/Revenant/Sprites/SKELJ6.png
+- Assets/Enemies/Revenant/Sprites/SKELA1.png
+- Assets/Enemies/Archvile/Sprites/VILE^8.png
+- Assets/Enemies/Chaingunner/Sprites/CPOSC6.png
+- Assets/Enemies/Archvile/Sprites/VILEN2.png
+- Assets/Enemies/Imp/Sprites/ImpB1.png
+- Assets/Scenes/Map30/Sprites/DEM1_2.png
+- Assets/Enemies/Imp/Sprites/ImpD1.png
+- Assets/Enemies/Chaingunner/Sprites/CPOSB8.png
+- Assets/Enemies/Spider/Sprites/SPIDA3.png
+- Assets/Enemies/Archvile/Sprites/VILEA2.png
+- Assets/Enemies/Baron/Projectiles/BaronFireballGhost.prefab
+- Assets/Enemies/Archvile/Sprites/VILEG3.png
+- Assets/Enemies/Revenant/Sprites/SKELA3D7.png
+- Assets/Scenes/Map30/Sprites/SLIME06.png
+- Assets/Enemies/Spider/Sprites/SPIDO0.png
+- Assets/Enemies/Revenant/Sprites/FATBA8.png
+- Assets/Enemies/Archvile/Sprites/FIREG0.png
+- Assets/Enemies/Spider/Sprites/SPIDD8.png
+- Assets/Enemies/Revenant/Sprites/SKELD3.png
+- Assets/Scenes/Map30/Sprites/DEM1_3.png
+- Assets/Enemies/Revenant/Sprites/SKELJ5.png
+- Assets/Enemies/Archvile/Sprites/VILEJ6.png
+- Assets/Enemies/Revenant/Sprites/SKELE3.png
+- Assets/Enemies/Imp/Sprites/ImpG3.png
+- Assets/Enemies/Archvile/Sprites/VILED1.png
+- Assets/Enemies/Chaingunner/Sprites/CPOSF1.png
+- Assets/Enemies/Baron/Sprites/BOSSE1.png
+- Assets/Enemies/Imp/Projectiles/FireballExplosion.prefab
+- Assets/Enemies/Revenant/Sprites/SKELB8.png
+- Assets/Enemies/Archvile/Sprites/VILEA7.png
+- Assets/Enemies/Cyberdemon/Sprites/CYBRF3.png
+- Assets/Enemies/Cacodemon/Sprites/HEADA5.png
+- Assets/Enemies/Revenant/Sprites/SKELK3.png
+- Assets/Enemies/Cyberdemon/Sprites/CYBRD4.png
+- Assets/Enemies/Archvile/Sprites/VILEL2.png
+- Assets/Enemies/Archvile/Sprites/VILEM6.png
+- Assets/Enemies/Cyberdemon/Sprites/CYBRB8.png
+- Assets/Enemies/Archvile/Sprites/VILEW0.png
+- Assets/Enemies/Baron/Sprites/BOSSE6.png
+- Assets/Enemies/Archvile/Sprites/VILEJ1.png
+- Assets/Enemies/Archvile/Sprites/VILET0.png
+- Assets/Enemies/Baron/Sprites/BOSSG7.png
+- Assets/Enemies/Cacodemon/Sprites/HEADG0.png
+- Assets/Enemies/Archvile/Sprites/VILED7.png
+- Assets/Enemies/Baron/BaronBody.prefab
+- Assets/Enemies/Chaingunner/Sprites/CPOSB4.png
+- Assets/Enemies/Imp/Sprites/BAL1E0.png
+- Assets/Enemies/Archvile/Sprites/VILE^3.png
+- Assets/Enemies/Archvile/Sprites/VILE]4.png
+- Assets/Enemies/Icon/Sprites/BOSFB0.png
+- Assets/Enemies/Archvile/Sprites/VILEN6.png
+- Assets/Enemies/Baron/Sprites/BOSSA3.png
+- Assets/Enemies/Imp/Sprites/ImpF1.png
+- Assets/Enemies/Archvile/Sprites/VILEJ3.png
+- Assets/Enemies/Baron/Sprites/BOSSF8.png
+- Assets/Enemies/Revenant/Sprites/SKELD1.png
+- Assets/Enemies/Icon/Icon.asset
+- Assets/Enemies/Chaingunner/Sprites/CPOSA4.png
+- Assets/Enemies/Archvile/Sprites/VILEM7.png
+- Assets/Enemies/Imp/Sprites/ImpC1.png
+- Assets/Scenes/Map30/Sprites/NUKAGE3.png
+- Assets/Enemies/Imp/Projectiles/ImpFireball.prefab
+- Assets/Enemies/Revenant/Sprites/SKELJ7.png
+- Assets/Enemies/Archvile/Sprites/VILEF3.png
+- Assets/Enemies/Revenant/Sprites/SKELK5.png
+- Assets/Enemies/Baron/Projectiles/BaronFireball.prefab
+- Assets/Enemies/Archvile/ArchvileMaster.prefab
+- Assets/Enemies/Imp/Sprites/ImpB7.png
+- Assets/Enemies/Cacodemon/Sprites/BAL2C0.png
+- Assets/Enemies/Baron/Sprites/BOSSD2.png
+- Assets/Enemies/Archvile/Sprites/VILEB1.png
+- Assets/Enemies/Spider/Sprites/SPIDF4.png
+- Assets/Enemies/Icon/Sprites/RWDMON1.png
+- Assets/Enemies/Spider/Sprites/SPIDE6.png
+- Assets/Enemies/Spider/Sprites/SPIDB7.png
+- Assets/Enemies/Archvile/Sprites/VILE^6.png
+- Assets/Enemies/Revenant/Sprites/SKELA7.png
+- Assets/Enemies/Baron/Sprites/BOSSC3.png
+- Assets/Enemies/Spider/Sprites/SPIDE3.png
+- Assets/Enemies/Archvile/Sprites/VILEG2.png
+- Assets/Enemies/Spider/Sprites/SPIDL0.png
+- Assets/Enemies/Imp/Sprites/ImpA1.png
+- Assets/Enemies/Archvile/Sprites/VILEC2.png
+- Assets/Enemies/Baron/Sprites/BOSSC2.png
+- Assets/Enemies/Spider/Sprites/SPIDD3.png
+- Assets/Enemies/Baron/Sprites/BOSSK0.png
+- Assets/Enemies/Baron/Sprites/BOSSF6.png
+- Assets/Scenes/Map30/Sprites/SLIME11.png
+- Assets/Enemies/Spider/Sprites/SPIDE5.png
+- Assets/Enemies/Archvile/ArchvileLog.asset
+- Assets/Scenes/Map30/Sprites/NUKAGE1.png
+- Assets/Enemies/Imp/Sprites/ImpC2.png
+- Assets/Enemies/Archvile/Sprites/VILEP1.png
+- Assets/Enemies/Spider/Sprites/SPIDB6.png
+- Assets/Enemies/Baron/Sprites/BOSSF1.png
+- Assets/Enemies/Archvile/Sprites/VILEN1.png
+- Assets/Enemies/Imp/Sprites/TROOL0.png
+- Assets/Enemies/Baron/Sprites/BOSSB6.png
+- Assets/Enemies/Baron/Sprites/BOSSA7.png
+- Assets/Enemies/Icon/Sprites/RWDMON2.png
+- Assets/Enemies/Cyberdemon/Sprites/CYBRF6.png
+- Assets/Enemies/Spider/Sprites/SPIDM0.png
+- Assets/Enemies/Cyberdemon/Projectiles/CyberRocketGhost.prefab
+- Assets/Enemies/Archvile/Sprites/VILEA8.png
+- Assets/Enemies/Archvile/Sprites/VILEA1.png
+- Assets/Enemies/Baron/Sprites/BOSSF5.png
+- Assets/Enemies/Spider/Sprites/SPIDF1.png
+- Assets/Enemies/Spider/SpiderMaster.prefab
+- Assets/Enemies/Spider/Sprites/SPIDG5.png
+- Assets/Enemies/Spider/Sprites/SPIDG7.png
+- Assets/Enemies/Cyberdemon/Sprites/CYBRI0.png
+- Assets/Enemies/Archvile/Sprites/VILEK2.png
+- Assets/Enemies/Spider/Sprites/SPIDH6.png
+- Assets/Enemies/Baron/Baron.asset
+- Assets/Enemies/Baron/Sprites/BOSSB8.png
+- Assets/Enemies/Archvile/Sprites/FIREA0.png
+- Assets/Enemies/Imp/ImpLog.asset
+- Assets/Enemies/Imp/Sprites/ImpD2.png
+- Assets/Enemies/Archvile/Sprites/VILEM1.png
+- Assets/Enemies/Cyberdemon/Sprites/CYBRA7.png
+- Assets/Enemies/Revenant/Projectiles/SkelMissile.prefab
+- Assets/Enemies/Revenant/Sprites/FBXPA0.png
+- Assets/Enemies/Chaingunner/ChaingunnerMaster.prefab
+- Assets/Enemies/Baron/Sprites/BOSSM0.png
+- Assets/Enemies/Archvile/Sprites/VILEM4.png
+- Assets/Enemies/Archvile/Sprites/VILEF6.png
+- Assets/Enemies/Archvile/Sprites/VILED4.png
+- Assets/Enemies/Chaingunner/Sprites/CPOSH0.png
+- Assets/Enemies/Archvile/Sprites/VILEJ5.png
+- Assets/Enemies/Archvile/Sprites/VILE]7.png
+- Assets/Enemies/Spider/Sprites/SPIDB5.png
+- Assets/Enemies/Cacodemon/Sprites/HEADC5.png
+- Assets/Enemies/Revenant/Sprites/SKELB4.png
+- Assets/Enemies/Imp/Sprites/ImpG5.png
+- Assets/Enemies/Spider/Sprites/SPIDH4.png
+- Assets/Enemies/Cacodemon/Sprites/HEADD8.png
+- Assets/Enemies/Archvile/Sprites/VILEL8.png
+- Assets/Enemies/Revenant/Sprites/SKELD6.png
+- Assets/Enemies/Icon/Projectiles/SpawnCube.prefab
+- Assets/Enemies/Cyberdemon/Sprites/CYBRG4.png
+- Assets/Enemies/Cyberdemon/Sprites/CYBRB1.png
+- Assets/Enemies/Archvile/Sprites/VILEK8.png
+- Assets/Enemies/Cyberdemon/Sprites/CYBRD6.png
+- Assets/Enemies/Revenant/Sprites/SKELB5.png
+- Assets/Enemies/Baron/Sprites/BOSSF3.png
+- Assets/Enemies/Spider/SpiderBody.prefab
+- Assets/Enemies/Archvile/Sprites/VILEM8.png
+- Assets/Enemies/Archvile/Sprites/VILEG5.png
+Dependencies: []

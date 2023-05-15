@@ -2,3 +2,5 @@
 DoomEnemies/libs
 DoomEnemies/bin
 DoomEnemies/obj
+build.sh
+build

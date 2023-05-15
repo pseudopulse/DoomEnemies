@@ -1,3 +1,4 @@
+using System.Reflection.Emit;
 using BepInEx;
 using R2API;
 using R2API.Utils;
@@ -5,17 +6,20 @@ using RoR2;
 using UnityEngine;
 using UnityEngine.AddressableAssets;
 using System.Reflection;
+using Mono.Cecil;
+using MonoMod.Cil;
 
 namespace DoomEnemies {
     [BepInPlugin(PluginGUID, PluginName, PluginVersion)]
     
-    public class DoomEnemies : BaseUnityPlugin {
+    public class Main : BaseUnityPlugin {
         public const string PluginGUID = PluginAuthor + "." + PluginName;
         public const string PluginAuthor = "pseudopulse";
         public const string PluginName = "DoomEnemies";
         public const string PluginVersion = "1.0.0";
 
         public static AssetBundle bundle;
+        public static AssetBundle scenebundle;
         public static BepInEx.Logging.ManualLogSource ModLogger;
 
         public void Awake() {
@@ -24,6 +28,8 @@ namespace DoomEnemies {
 
             // set logger
             ModLogger = Logger;
+
+            EnemyManager.Scan();
         }
     }
 }
